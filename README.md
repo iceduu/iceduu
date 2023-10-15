@@ -7,7 +7,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iceduu/iceduu/output/github-contribution-grid-snake.svg">
 </picture>
 
-<div align="center"> <img src="/github-metrics.svg"> </div>
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
 
 <!--
 **iceduu/iceduu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
